@@ -1,0 +1,12 @@
+body {
+  background-size: cover;
+}
+
+@font-face {
+  font-family: NieR-Angelic;
+  src: url(NieR-Angelic-Regular.ttf);
+}
+
+.passage.angelic, #story-title {
+  font-family: NieR-Angelic;
+}
